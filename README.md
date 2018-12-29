@@ -13,4 +13,4 @@ player: https://www.pavconhecimento.pt/includes/angrybirds/angry/img/red2.png
 
 # Screenshots
 
-![alt text](screenshot.png =200x200)
+![alt text](screenshot.png)
